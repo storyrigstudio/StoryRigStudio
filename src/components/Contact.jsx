@@ -1,6 +1,9 @@
 import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
+import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
+import { IoLogoWhatsapp } from "react-icons/io";
 
 import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
@@ -34,10 +37,10 @@ const Contact = () => {
     // Ensure you've initialized emailjs with the correct user ID
     emailjs
       .sendForm(
-        'service_lvmbx9j',  // Replace with your service ID
-        'template_29iotva',  // Replace with your template ID
+        'service_1mutnkb',  // Replace with your service ID
+        'template_a0wwqda',  // Replace with your template ID
         formRef.current,  // Reference to the form
-        'nbx9Md2xbrd7sU7yK'  // Replace with your user/public key
+        'RcOgWhFYYvusi0B23'  // Replace with your user/public key
       )
       .then(
         () => {
@@ -112,6 +115,27 @@ const Contact = () => {
             {loading ? "Sending..." : "Send"}
           </button>
         </form>
+         {/* Social Media Section */}
+         <div className="mt-10 flex justify-center gap-6">
+         <a href="https://wa.me/916384821366" target="_blank" rel="noopener noreferrer">
+            <IoLogoWhatsapp size={30} className="text-white hover:text-green-600 transition" />
+          </a>
+          <a href="https://www.instagram.com/galaxiafx?igsh=NngydGJtcjZjNDRn" target="_blank" rel="noopener noreferrer">
+            <FaInstagram size={30} className="text-white hover:text-pink-500 transition" />
+          </a>
+          <a href="https://www.youtube.com/@GalaxiaFX2024" target="_blank" rel="noopener noreferrer">
+            <FaYoutube size={30} className="text-white hover:text-red-500 transition" />
+          </a>
+          <a href="https://www.linkedin.com/in/galaxiafx/" target="_blank" rel="noopener noreferrer">
+            <FaLinkedin size={30} className="text-white hover:text-blue-600 transition" />
+          </a>
+          <a href="https://www.facebook.com/share/19RGgwNtLu/?mibextid=LQQJ4d" target="_blank" rel="noopener noreferrer">
+            <FaFacebook size={30} className="text-white hover:text-blue-500 transition" />
+          </a>
+          <a href="https://x.com/galaxia_fx?s=21" target="_blank" rel="noopener noreferrer">
+            <FaSquareXTwitter  size={30} className="text-white hover:text-gray-400 transition" />
+          </a>
+        </div>
       </motion.div>
 
       <motion.div
@@ -120,7 +144,9 @@ const Contact = () => {
       >
         <EarthCanvas />
       </motion.div>
+
     </div>
+    
   );
 };
 
