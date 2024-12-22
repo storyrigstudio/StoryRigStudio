@@ -45,6 +45,9 @@ import model from "./model.png";
 import animation from "./animation.png";
 import vfx from "./vfx.png";
 import edit from "./edit.png";
+import thumbnail1 from "./thumbnail1.png";
+import youtube from "./youtube.png";
+
 export {
   logo,
   backend,
@@ -90,4 +93,6 @@ export {
   animation,
   vfx,
   edit,
+  thumbnail1,
+  youtube,
 };

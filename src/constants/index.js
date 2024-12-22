@@ -39,6 +39,8 @@ import {
   animation,
   vfx,
   edit,
+  thumbnail1,
+  youtube,
 } from "../assets";
 
 export const navLinks = [
@@ -164,9 +166,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Department Virtual Tour - Immersive 3D Experience",
-    description:
-      "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
+    name: "3D Island Environment with Unreal Engine 5.5",
+    // description:
+    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
     tags: [
       {
         name: "blender",
@@ -178,51 +180,10 @@ const projects = [
       },
       
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: thumbnail1,
+    source_code_link: "https://www.youtube.com/watch?v=PLoFbsAfC58",
   },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
