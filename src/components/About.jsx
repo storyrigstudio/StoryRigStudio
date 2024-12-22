@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        "I'm a skilled 3D artist with expertise in 3D modeling, animation, visual effects, and video editing. I excel at creating immersive, high-quality visuals that bring ideas to life, leveraging advanced tools and techniques to deliver exceptional results. A quick learner and collaborator, I work closely with clients to produce efficient and engaging solutions tailored to their needs. Let's work together to transform your vision into reality!"
+        "I'm a skilled 3D artist with expertise in 3D modeling, 3D Environment Design, animation, visual effects, and video editing. I excel at creating immersive, high-quality visuals that bring ideas to life, leveraging advanced tools and techniques to deliver exceptional results. A quick learner and collaborator, I work closely with clients to produce efficient and engaging solutions tailored to their needs. Let's work together to transform your vision into reality!"
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
