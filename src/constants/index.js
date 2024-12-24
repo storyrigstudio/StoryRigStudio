@@ -41,6 +41,8 @@ import {
   edit,
   thumbnail1,
   youtube,
+  led,
+
 } from "../assets";
 
 export const navLinks = [
@@ -60,20 +62,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "3D Modeling",
-    icon: model,
-  },
-  {
-    title: "Animations",
-    icon: animation,
+    title: "Virtual Production",
+    icon: led,
   },
   {
     title: "Visual Effects",
     icon: vfx,
   },
   {
-    title: "Video Editing",
+    title: "Post Production",
     icon: edit,
+  },
+  {
+    title: "Previsualization",
+    icon: animation,
   },
 ];
 

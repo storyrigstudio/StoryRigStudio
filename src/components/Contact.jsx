@@ -120,7 +120,7 @@ const Contact = () => {
          <a href="https://wa.me/916384821366" target="_blank" rel="noopener noreferrer">
             <IoLogoWhatsapp size={30} className="text-white hover:text-green-600 transition" />
           </a>
-          <a href="https://www.instagram.com/galaxiafx?igsh=NngydGJtcjZjNDRn" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/_galaxiafx_/?igsh=NngydGJtcjZjNDRn" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={30} className="text-white hover:text-pink-500 transition" />
           </a>
           <a href="https://www.youtube.com/@GalaxiaFX2024" target="_blank" rel="noopener noreferrer">
