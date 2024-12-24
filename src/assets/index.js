@@ -47,6 +47,7 @@ import vfx from "./vfx.png";
 import edit from "./edit.png";
 import thumbnail1 from "./thumbnail1.png";
 import youtube from "./youtube.png";
+import led from "./led.png";
 
 export {
   logo,
@@ -95,4 +96,5 @@ export {
   edit,
   thumbnail1,
   youtube,
+  led,
 };
