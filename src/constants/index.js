@@ -62,20 +62,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Virtual Production",
-    icon: led,
+    title: "3D Modeling",
+    icon: model,
   },
   {
     title: "Visual Effects",
     icon: vfx,
   },
   {
-    title: "Post Production",
-    icon: edit,
+    title: "Motion Graphics & Animation",
+    icon: animation,
   },
   {
-    title: "Previsualization",
-    icon: animation,
+    title: "Video Editing",
+    icon: edit,
   },
 ];
 
