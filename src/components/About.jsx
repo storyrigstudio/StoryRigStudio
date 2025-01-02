@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        "I am a skilled Animator & VFX Artist with expertise in 3D Environment Design, Animation & Character Design, Motion capture, Visual Effects, Realtime Rendering, Storytelling and Editing. I excel at creating immersive, high-quality visuals that bring ideas to life, utilizing advanced tools and techniques to deliver exceptional results. As a quick learner and strong collaborator, I work closely with clients to develop efficient, engaging solutions tailored to their unique needs. Let's work together to transform your vision into reality!"
+        "I am a skilled Animator & VFX Artist with expertise in 3D Environment Design, Animation, Visual Effects, Editing, Storytelling and Realtime Rendering. I excel at creating immersive, high-quality visuals that bring ideas to life, utilizing advanced tools and techniques to deliver exceptional results. As a quick learner and strong collaborator, I work closely with clients to develop efficient, engaging solutions tailored to their unique needs. Let's work together to transform your vision into reality!"
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
