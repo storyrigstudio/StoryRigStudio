@@ -48,6 +48,7 @@ import edit from "./edit.png";
 import thumbnail1 from "./thumbnail1.png";
 import youtube from "./youtube.png";
 import led from "./led.png";
+import thumbnail2 from "./thumbnail2.png";
 
 export {
   logo,
@@ -97,4 +98,5 @@ export {
   thumbnail1,
   youtube,
   led,
+  thumbnail2,
 };

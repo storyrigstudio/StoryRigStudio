@@ -42,6 +42,7 @@ import {
   thumbnail1,
   youtube,
   led,
+  thumbnail2,
 
 } from "../assets";
 
@@ -185,6 +186,25 @@ const projects = [
     image: thumbnail1,
     source_code_link: "https://www.youtube.com/watch?v=PLoFbsAfC58",
   },
+  {
+    name: "Created motion text animations using After Effects for events",
+    // description:
+    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
+    tags: [
+      {
+        name: "After Effects",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Davinci Resolve",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: thumbnail2,
+    source_code_link: "https://drive.google.com/drive/folders/1qaGvgKfy3IMVuL-CRPBCP6icNH8MNLGM?usp=sharing",
+  },
+  
   
 ];
 
