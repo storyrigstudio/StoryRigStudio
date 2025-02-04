@@ -42,7 +42,7 @@ import {
   thumbnail1,
   youtube,
   led,
-  thumbnail2,
+  thumbnail0,
 
 } from "../assets";
 
@@ -174,11 +174,11 @@ const projects = [
     //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
     tags: [
       {
-        name: "blender",
+        name: "Blender",
         color: "pink-text-gradient",
       },
       {
-        name: "Unreal Engine",
+        name: "Unreal Engine 5",
         color: "green-text-gradient",
       },
       
@@ -186,6 +186,25 @@ const projects = [
     image: thumbnail1,
     source_code_link: "https://www.youtube.com/watch?v=PLoFbsAfC58",
   },
+  {
+    name: "The Lord Ganesha in 3D Cave Environment with Unreal Engine 5.5",
+    // description:
+    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
+    tags: [
+      {
+        name: "Blender",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Unreal Engine 5",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: thumbnail0,
+    source_code_link: "https://youtu.be/FhVoYAj9riU?si=4vf6bLNS_HZDKvQC",
+  },
+
   
   
 ];
