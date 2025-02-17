@@ -117,7 +117,7 @@ const Contact = () => {
         </form>
          {/* Social Media Section */}
          <div className="mt-10 flex justify-center gap-6">
-         <a href="https://wa.me/916384821366" target="_blank" rel="noopener noreferrer">
+         <a href="https://wa.me/916374961884" target="_blank" rel="noopener noreferrer">
             <IoLogoWhatsapp size={30} className="text-white hover:text-green-600 transition" />
           </a>
           <a href="https://www.instagram.com/galaxia_fx?igsh=NngydGJtcjZjNDRn" target="_blank" rel="noopener noreferrer">
