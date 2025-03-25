@@ -43,6 +43,7 @@ import {
   youtube,
   led,
   thumbnail0,
+  thumbnail3,
 
 } from "../assets";
 
