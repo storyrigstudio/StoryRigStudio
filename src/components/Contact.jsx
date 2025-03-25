@@ -126,7 +126,7 @@ const Contact = () => {
           <a href="https://www.youtube.com/@GalaxiaFX2024" target="_blank" rel="noopener noreferrer">
             <FaYoutube size={30} className="text-white hover:text-red-500 transition" />
           </a>
-          <a href="https://www.linkedin.com/in/galaxiafx/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/ajith-s-357385325" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={30} className="text-white hover:text-blue-600 transition" />
           </a>
           <a href="https://www.facebook.com/share/19RGgwNtLu/?mibextid=LQQJ4d" target="_blank" rel="noopener noreferrer">
