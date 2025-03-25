@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Ajith S</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Unreal Engine fuels imagination, CGI shapes worlds, VFX brings dreams to life.... <br className='sm:block hidden' />
+           Every frame tells a story, every motion sparks emotion.... <br className='sm:block hidden' />
           </p>
         </div>
       </div>
