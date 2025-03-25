@@ -81,7 +81,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          "Discover projects that showcase my expertise in 3D modeling, animation, visual effects, and video editing. Each project includes brief descriptions, live demos, and code repositories. These works reflect my ability to solve challenges, adapt to tools, and deliver creative solutions efficiently."
+          Discover projects that showcase my expertise in 3D modeling, animation, visual effects, and video editing. Each project includes brief descriptions, live demos, and code repositories. These works reflect my ability to solve challenges, adapt to tools, and deliver creative solutions efficiently.
         </motion.p>
       </div>
 

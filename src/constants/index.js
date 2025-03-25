@@ -64,7 +64,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "3D Modeling",
+    title: "3D Design",
     icon: model,
   },
   {
