@@ -204,6 +204,24 @@ const projects = [
     image: thumbnail0,
     source_code_link: "https://youtu.be/FhVoYAj9riU?si=4vf6bLNS_HZDKvQC",
   },
+  {
+    name: "Blender 4.4 CGI Airplane Animation",
+    // description:
+    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
+    tags: [
+      {
+        name: "Blender",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Davinci Resolve",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: thumbnail3,
+    source_code_link: "https://youtu.be/fidQk0Iw1IY?si=px2h86XwNeb0FjGS",
+  },
 
   
   
