@@ -91,7 +91,6 @@ export {
   pt,
   ps,
   ai,
-  fma,
   ue,
   zbrush,
   csda,

@@ -45,7 +45,6 @@ import {
   thumbnail0,
   thumbnail3,
   zbrush,
-  fma,
 
 } from "../assets";
 
@@ -121,8 +120,8 @@ const technologies = [
     icon: ai,
   },
   {
-    name: "fma",
-    icon: fma,
+    name: "figma",
+    icon: figma,
   },
 ];
 const experiences = [
