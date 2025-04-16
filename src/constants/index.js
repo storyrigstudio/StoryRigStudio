@@ -43,6 +43,7 @@ import {
   youtube,
   led,
   thumbnail0,
+  thumbnail,
   thumbnail3,
   zbrush,
 
@@ -215,7 +216,7 @@ const projects = [
     source_code_link: "https://youtu.be/FhVoYAj9riU?si=4vf6bLNS_HZDKvQC",
   },
   {
-    name: "Blender 4.4 CGI Airplane Animation",
+    name: "Mustang GT in CGI – Made Entirely in Blender 4.4!",
     // description:
     //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
     tags: [
@@ -229,8 +230,8 @@ const projects = [
       },
       
     ],
-    image: thumbnail3,
-    source_code_link: "https://youtu.be/fidQk0Iw1IY?si=px2h86XwNeb0FjGS",
+    image: thumbnail,
+    source_code_link: "https://youtu.be/g7XhiMZj7YE?si=TEiZHUOd4MIbKd2G",
   },
   
 ];

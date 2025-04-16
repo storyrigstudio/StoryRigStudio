@@ -50,6 +50,7 @@ import thumbnail1 from "./thumbnail1.png";
 import youtube from "./youtube.png";
 import led from "./led.png";
 import thumbnail0 from "./thumbnail0.png";
+import thumbnail from "./thumbnail.png";
 import thumbnail3 from "./thumbnail3.png";
 
 export {
@@ -102,5 +103,6 @@ export {
   youtube,
   led,
   thumbnail0,
+  thumbnail,
   thumbnail3,
 };
