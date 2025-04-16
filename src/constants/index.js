@@ -44,6 +44,8 @@ import {
   led,
   thumbnail0,
   thumbnail3,
+  zbrush,
+  fma,
 
 } from "../assets";
 
@@ -91,6 +93,10 @@ const technologies = [
     icon: blender,
   },
   {
+    name: "zbrush",
+    icon: zbrush,
+  },
+  {
     name: "davinci",
     icon: davinci,
   },
@@ -113,6 +119,10 @@ const technologies = [
   {
     name: "ai",
     icon: ai,
+  },
+  {
+    name: "fma",
+    icon: fma,
   },
 ];
 const experiences = [
@@ -222,6 +232,24 @@ const projects = [
     ],
     image: thumbnail3,
     source_code_link: "https://youtu.be/fidQk0Iw1IY?si=px2h86XwNeb0FjGS",
+  },
+  {
+    name: "Mustang GT in CGI – Made Entirely in Blender 4.4!",
+    // description:
+    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
+    tags: [
+      {
+        name: "Blender",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Davinci Resolve",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: thumbnail4,
+    source_code_link: "https://youtu.be/g7XhiMZj7YE?si=0B2LWFHOEbdYIEtU",
   },
 
   

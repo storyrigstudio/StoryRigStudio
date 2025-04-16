@@ -30,6 +30,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import unreal from "./tech/unreal.png";
+import zbrush from "./tech/zbrush.png";
 import blender from "./tech/blender.png";
 import davinci from "./tech/davinci.png";
 import aftereffect from "./tech/aftereffect.png";
@@ -37,6 +38,7 @@ import pp from "./tech/pp.png";
 import pt from "./tech/pt.png";
 import ps from "./tech/ps.png";
 import ai from "./tech/ai.png";
+import fma from "./tech/fma.png";
 import ue from "./tech/ue.png";
 import csda from "./company/csda.png";
 import fl from "./company/fl.png";
@@ -50,6 +52,7 @@ import youtube from "./youtube.png";
 import led from "./led.png";
 import thumbnail0 from "./thumbnail0.png";
 import thumbnail3 from "./thumbnail3.png";
+import thumbnail4 from "./thumbnail4.png";
 
 export {
   logo,
@@ -88,7 +91,9 @@ export {
   pt,
   ps,
   ai,
+  fma,
   ue,
+  zbrush,
   csda,
   fl,
   gfxlogo,
@@ -101,4 +106,5 @@ export {
   led,
   thumbnail0,
   thumbnail3,
+  thumbnail4,
 };
