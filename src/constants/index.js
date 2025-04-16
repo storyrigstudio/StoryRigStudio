@@ -119,7 +119,10 @@ const technologies = [
     name: "ai",
     icon: ai,
   },
-  
+  {
+    name: "figma",
+    icon: figma,
+  },
 ];
 const experiences = [
   {
