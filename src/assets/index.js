@@ -38,7 +38,6 @@ import pp from "./tech/pp.png";
 import pt from "./tech/pt.png";
 import ps from "./tech/ps.png";
 import ai from "./tech/ai.png";
-import fma from "./tech/fma.png";
 import ue from "./tech/ue.png";
 import csda from "./company/csda.png";
 import fl from "./company/fl.png";
