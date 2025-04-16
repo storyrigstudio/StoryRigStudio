@@ -228,9 +228,7 @@ const projects = [
     ],
     image: thumbnail3,
     source_code_link: "https://youtu.be/fidQk0Iw1IY?si=px2h86XwNeb0FjGS",
-  },  
-
-  
+  },
   
 ];
 
