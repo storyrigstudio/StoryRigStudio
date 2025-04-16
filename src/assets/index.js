@@ -51,7 +51,7 @@ import youtube from "./youtube.png";
 import led from "./led.png";
 import thumbnail0 from "./thumbnail0.png";
 import thumbnail3 from "./thumbnail3.png";
-//import thumbnail4 from "./thumbnail4.png";
+import thumbnail4 from "./thumbnail4.png";
 
 export {
   logo,
@@ -104,5 +104,5 @@ export {
   led,
   thumbnail0,
   thumbnail3,
-  //thumbnail4,
+  thumbnail4,
 };
