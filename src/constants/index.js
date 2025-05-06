@@ -45,7 +45,6 @@ import {
   thumbnail0,
   thumbnail,
   thumbnail3,
-  zbrush,
 
 } from "../assets";
 
@@ -91,10 +90,6 @@ const technologies = [
   {
     name: "blender",
     icon: blender,
-  },
-  {
-    name: "zbrush",
-    icon: zbrush,
   },
   {
     name: "davinci",
