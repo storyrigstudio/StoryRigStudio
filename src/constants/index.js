@@ -45,6 +45,7 @@ import {
   thumbnail0,
   thumbnail,
   thumbnail3,
+  sf,
 
 } from "../assets";
 
@@ -121,6 +122,17 @@ const technologies = [
   },
 ];
 const experiences = [
+  {
+    title: "Short Film",
+    icon: sf,
+    iconBg: "#383E56",
+    date: "May 2025",
+    points: [
+      "Created and animated the short film Aathirai, a 2D story-driven project released on YouTube, aimed at delivering an emotional narrative through visual storytelling.",
+      "Handled key aspects of 2D animation production, including character motion, scene transitions, and storytelling flow to engage viewers.",
+      "Successfully translated a scripted concept into an animated format, enhancing audience understanding and emotional impact through thoughtful design and animation.",
+    ],
+  },
   {
     title: "Freelance",
     icon: fl,
