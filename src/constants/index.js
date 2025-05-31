@@ -46,7 +46,7 @@ import {
   thumbnail,
   thumbnail3,
   sf,
-
+  thumbnail4,
 } from "../assets";
 
 export const navLinks = [
@@ -257,6 +257,24 @@ const projects = [
     ],
     image: thumbnail,
     source_code_link: "https://youtu.be/g7XhiMZj7YE?si=TEiZHUOd4MIbKd2G",
+  },
+  {
+    name: "All-in-One App – Grocery Delivery, Recharge & Bill Payments | Motion Design",
+    // description:
+    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
+    tags: [
+      {
+        name: "After Effects",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Premiere Pro",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: thumbnail4,
+    source_code_link: "https://youtu.be/X2t97y9brRk?si=xeklHTXgO_VFO4H7",
   },
   
 ];
