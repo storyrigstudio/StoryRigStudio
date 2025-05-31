@@ -51,7 +51,7 @@ import led from "./led.png";
 import thumbnail0 from "./thumbnail0.png";
 import thumbnail from "./thumbnail.png";
 import thumbnail3 from "./thumbnail3.png";
-
+import sf from "./sf.png";
 export {
   logo,
   backend,
@@ -103,4 +103,5 @@ export {
   thumbnail0,
   thumbnail,
   thumbnail3,
+  sf,
 };
