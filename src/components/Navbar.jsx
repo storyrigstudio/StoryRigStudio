@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { logo, gfxlogo, menu, close } from "../assets";
+import { logo, srs, menu, close } from "../assets";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -45,7 +45,7 @@ const Navbar = () => {
           <img src={gfxlogo} alt='logo' className='logoclass' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
           
-            <span className='sm:block hidden'>   GalaxiaFX</span>
+            <span className='sm:block hidden'>   StoryRig Studio</span>
           </p>
         </Link>
 

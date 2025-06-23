@@ -53,6 +53,7 @@ import thumbnail from "./thumbnail.png";
 import thumbnail3 from "./thumbnail3.png";
 import sf from "./company/sf.png";
 import thumbnail4 from "./thumbnail4.png";
+import srs from "./srs.png";
 export {
   logo,
   backend,
@@ -106,4 +107,5 @@ export {
   thumbnail3,
   sf,
   thumbnail4,
+  srs,
 };
