@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={gfxlogo} alt='logo' className='logoclass' />
+          <img src={srs} alt='logo' className='logoclass' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
           
             <span className='sm:block hidden'>   StoryRig Studio</span>
