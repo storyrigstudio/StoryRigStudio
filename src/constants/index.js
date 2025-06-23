@@ -202,7 +202,7 @@ const projects = [
       
     ],
     image: thumbnail1,
-    source_code_link: "https://www.youtube.com/watch?v=PLoFbsAfC58",
+    source_code_link: "https://youtu.be/GFBCzQBu5x8?si=f4pPYs1P3ZnPoZ9V",
   },
   {
     name: "The Lord Ganesha in 3D Cave Environment with Unreal Engine 5.5",
@@ -220,7 +220,7 @@ const projects = [
       
     ],
     image: thumbnail0,
-    source_code_link: "https://youtu.be/FhVoYAj9riU?si=4vf6bLNS_HZDKvQC",
+    source_code_link: "https://youtu.be/3LgJpp9kmz8?si=L4jOR0H8R72_KTIc",
   },
   {
     name: "Blender 4.4 CGI Airplane Animation",
@@ -238,7 +238,7 @@ const projects = [
       
     ],
     image: thumbnail3,
-    source_code_link: "https://youtu.be/fidQk0Iw1IY?si=KJg2RrhWhEqx0mDd",
+    source_code_link: "https://youtu.be/P6q2SZ8of5k?si=KAPnJ2JNy7iSM1fb",
   },
   {
     name: "Mustang GT in CGI Made Entirely in Blender 4.4!",
@@ -256,7 +256,7 @@ const projects = [
       
     ],
     image: thumbnail,
-    source_code_link: "https://youtu.be/g7XhiMZj7YE?si=TEiZHUOd4MIbKd2G",
+    source_code_link: "https://youtu.be/afrmrC4tAkg?si=k3PyZFgm8R9bUc3B",
   },
   {
     name: "All-in-One App – Grocery Delivery, Recharge & Bill Payments | Motion Design",
