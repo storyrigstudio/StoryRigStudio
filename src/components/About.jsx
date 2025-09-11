@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I’m a passionate Digital Artist with extensive expertise in Animation, Visual Effects, 3D Design, Editing, and Motion Design. I specialize in crafting visually compelling stories using cutting-edge techniques and real-time rendering tools. With a keen eye for detail and a commitment to delivering high-quality results, I blend creativity and technical skill to produce outstanding visuals. Whether you're building a brand, telling a story, or launching a product, let’s work together to transform your vision into reality!
+        I am a passionate 3D Generalist with extensive expertise in Animation, Visual Effects, and 3D Design. I focus on crafting visually compelling stories using advanced techniques and real-time rendering tools. With a keen eye for detail and a commitment to excellence, I combine creativity and technical skill to produce outstanding visuals. Whether you are building a brand, telling a story, or launching a product, I work to transform your vision into a powerful visual experience.
 
       </motion.p>
 
