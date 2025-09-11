@@ -66,20 +66,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "3D Design",
-    icon: model,
+    title: "Film & Animation",
+    icon: animation,
   },
   {
     title: "Visual Effects",
     icon: vfx,
   },
   {
-    title: "Motion Graphics & Animation",
-    icon: animation,
+    title: "Virtual Production",
+    icon: led,
   },
   {
-    title: "Video Editing",
-    icon: edit,
+    title: "Game Design",
+    icon: creator,
   },
 ];
 
@@ -93,21 +93,22 @@ const technologies = [
     icon: blender,
   },
   {
-    name: "davinci",
-    icon: davinci,
+    name: "pt",
+    icon: pt,
   },
   {
     name: "aftereffect",
     icon: aftereffect,
   },
   {
+    name: "davinci",
+    icon: davinci,
+  },
+  {
     name: "pp",
     icon: pp,
   },
-  {
-    name: "pt",
-    icon: pt,
-  },
+
   {
     name: "ps",
     icon: ps,
@@ -250,33 +251,14 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "Davinci Resolve",
+        name: "Unreal Engine",
         color: "green-text-gradient",
       },
       
     ],
     image: thumbnail,
     source_code_link: "https://youtu.be/afrmrC4tAkg?si=k3PyZFgm8R9bUc3B",
-  },
-  {
-    name: "All-in-One App – Grocery Delivery, Recharge & Bill Payments | Motion Design",
-    // description:
-    //   "Created a realistic 3D model of our department block using Blender and Unreal Engine, featuring accurate layouts, detailed textures, and interactive hotspots. Optimized for VR and web platforms to provide an engaging and immersive exploration experience.",
-    tags: [
-      {
-        name: "After Effects",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Premiere Pro",
-        color: "green-text-gradient",
-      },
-      
-    ],
-    image: thumbnail4,
-    source_code_link: "https://youtu.be/X2t97y9brRk?si=xeklHTXgO_VFO4H7",
-  },
-  
+  },  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
