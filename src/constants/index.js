@@ -124,14 +124,25 @@ const technologies = [
 ];
 const experiences = [
   {
+    title: "Kaykee Digital Solution – Video Editor & Animator",
+    icon: edit,
+    iconBg: "#383E56",
+    date: "Present",
+    points: [
+      "Creating impactful videos and animations for YouTube, Instagram, and ad campaigns.",
+      "Managing end-to-end production including editing, sound, and post-production.",
+      "Delivering creative visual stories that boost brand communication and audience engagement.",
+    ],
+  },
+  {
     title: "Short Film",
     icon: sf,
     iconBg: "#383E56",
     date: "May 2025",
     points: [
-      "Created and animated the short film Aathirai, a 2D story-driven project released on YouTube, aimed at delivering an emotional narrative through visual storytelling.",
-      "Handled key aspects of 2D animation production, including character motion, scene transitions, and storytelling flow to engage viewers.",
-      "Successfully translated a scripted concept into an animated format, enhancing audience understanding and emotional impact through thoughtful design and animation.",
+      "Created and animated Aathirai, a 2D short film released on YouTube, focused on emotional storytelling.",
+      "Handled character motion, scene transitions, and overall storytelling flow for audience engagement.",
+      "Translated a scripted concept into animation, enhancing emotional impact through visual design.",
     ],
   },
   {
@@ -140,21 +151,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2024 - Dec 2024",
     points: [
-      "Creating immersive 3D animations and visually appealing edits for YouTube videos, enhancing storytelling and audience engagement.",
-      "Delivering end-to-end production, including animation design, video editing, sound integration, and post-production polishing, to meet high-quality standards.",
-      "Collaborating with clients to bring their creative visions to life, ensuring timely delivery and aligning projects with their branding and audience expectations.",
-    ],
-  },
-  {
-    title: "College Club Media Team",
-    icon: csda,
-    iconBg: "#E6DEDD",
-    date: "Aug 2023 - March 2025",
-    points: [
-      "Handling the creation of promo videos, event celebration videos, and engaging content to showcase club activities and achievements.",
-      "Developing 3D animations and motion graphic animations to visually enhance promotional materials and event highlights.",
-      "Collaborating with team members to conceptualize, plan, and execute media projects aligned with the club's goals and vision.",
-      "Managing editing and post-production tasks to deliver high-quality videos that effectively capture the essence of club events and initiatives.",
+      "Creating immersive 3D animations and engaging video edits for YouTube to enhance storytelling and audience connection.",
+      "Managing end-to-end production, including animation, editing, sound, and post-production for high-quality results.",
+      "Collaborating with clients to bring creative visions to life, ensuring timely delivery aligned with branding and audience needs.",
     ],
   },
 ];
