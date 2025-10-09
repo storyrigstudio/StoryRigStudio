@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a passionate 3D Generalist with extensive expertise in Animation, Visual Effects, and 3D Design. I focus on crafting visually compelling stories using advanced techniques and real-time rendering tools. With a keen eye for detail and a commitment to excellence, I combine creativity and technical skill to produce outstanding visuals. Whether you are building a brand, telling a story, or launching a product, I work to transform your vision into a powerful visual experience.
+        I am a passionate Unreal Engine Artist specializing in cinematic sequences, animation and environment design. I craft immersive experiences through pre-visualization and virtual production, blending creativity with technical expertise. With a keen eye for detail and a passion for storytelling, I transform concepts into visually compelling real-time experiences that engage and inspire.
 
       </motion.p>
 

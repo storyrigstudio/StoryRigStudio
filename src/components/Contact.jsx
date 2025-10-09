@@ -37,10 +37,10 @@ const Contact = () => {
     // Ensure you've initialized emailjs with the correct user ID
     emailjs
       .sendForm(
-        'service_1mutnkb',  // Replace with your service ID
-        'template_a0wwqda',  // Replace with your template ID
+        'service_4ol3bz6',  // Replace with your service ID
+        'template_k6xmjea',  // Replace with your template ID
         formRef.current,  // Reference to the form
-        'RcOgWhFYYvusi0B23'  // Replace with your user/public key
+        'ucsodDXArpm-bq-82'  // Replace with your user/public key
       )
       .then(
         () => {
