@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a passionate Unreal Engine Artist specializing in cinematic sequences, animation and environment design. I craft immersive experiences through pre-visualization and virtual production, blending creativity with technical expertise. With a keen eye for detail and a passion for storytelling, I transform concepts into visually compelling real-time experiences that engage and inspire.
+        I am a passionate Motion Designer specializing in cinematic animation, visual storytelling, and dynamic design. I craft immersive and engaging visuals that blend creativity with technical precision, bringing ideas to life through motion, rhythm, and emotion. With a keen eye for composition, timing, and flow, I transform concepts into visually compelling experiences across digital platforms. My work bridges design and storytelling—merging art, animation, and technology to create impactful visual narratives that engage, inspire, and resonate.
 
       </motion.p>
 

@@ -70,15 +70,15 @@ const services = [
     icon: animation,
   },
   {
-    title: "Visual Effects",
+    title: "VFX & Cinematic Designer",
     icon: vfx,
   },
   {
-    title: "Virtual Production",
-    icon: led,
+    title: "Corporate & Educational Content",
+    icon: web,
   },
   {
-    title: "Game Design",
+    title: "Advertising & Marketing",
     icon: creator,
   },
 ];
