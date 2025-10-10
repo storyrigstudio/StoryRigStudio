@@ -66,19 +66,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Film & Animation",
+    title: "Video Editing & Composition",
     icon: animation,
   },
   {
-    title: "VFX & Cinematic Designer",
+    title: "Animation & Motion Graphics",
     icon: vfx,
   },
   {
-    title: "Corporate & Educational Content",
+    title: "Design & Illustration",
     icon: web,
   },
   {
-    title: "Advertising & Marketing",
+    title: "3D Design",
     icon: creator,
   },
 ];
