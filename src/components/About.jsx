@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a passionate Motion Designer specializing in cinematic animation, visual storytelling, and dynamic design. I craft immersive and engaging visuals that blend creativity with technical precision, bringing ideas to life through motion, rhythm, and emotion. With a keen eye for composition, timing, and flow, I transform concepts into visually compelling experiences across digital platforms. My work bridges design and storytelling—merging art, animation, and technology to create impactful visual narratives that engage, inspire, and resonate.
+        Aspiring Unreal Engine Artist passionate about creating visually engaging and interactive media across games, films, and virtual experiences. Skilled in designing immersive 3D environments, cinematic sequences, animation, and visual effects, with a focus on real-time rendering and optimization.Eager to contribute to innovative projects that enhance storytelling and user engagement. Driven to push the boundaries of interactive media and deliver experiences that captivate audiences while combining technical skill with creative vision.
 
       </motion.p>
 
