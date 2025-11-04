@@ -124,27 +124,17 @@ const technologies = [
 ];
 const experiences = [
   {
-    title: "Kaykee Digital Solution – Video Editor & Animator",
+    title: "Kaykee Digital Solution – Animator",
     icon: edit,
     iconBg: "#383E56",
     date: "Present",
     points: [
-      "Creating impactful videos and animations for YouTube, Instagram, and ad campaigns.",
+      "Creating impactful Animations for YouTube, Instagram, and ad campaigns.",
       "Managing end-to-end production including editing, sound, and post-production.",
       "Delivering creative visual stories that boost brand communication and audience engagement.",
     ],
   },
-  {
-    title: "Short Film",
-    icon: sf,
-    iconBg: "#383E56",
-    date: "May 2025",
-    points: [
-      "Created and animated Aathirai, a 2D short film released on YouTube, focused on emotional storytelling.",
-      "Handled character motion, scene transitions, and overall storytelling flow for audience engagement.",
-      "Translated a scripted concept into animation, enhancing emotional impact through visual design.",
-    ],
-  },
+  
   {
     title: "Freelance",
     icon: fl,
