@@ -120,20 +120,14 @@ const Contact = () => {
          <a href="https://wa.me/916384821366" target="_blank" rel="noopener noreferrer">
             <IoLogoWhatsapp size={30} className="text-white hover:text-green-600 transition" />
           </a>
-          <a href="https://www.instagram.com/storyrig_studio/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/_ajithsankar_?igsh=MTZrcDFoOHd6YWtz&utm_source=qr" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={30} className="text-white hover:text-pink-500 transition" />
           </a>
-          <a href="https://www.youtube.com/@StoryRigStudio" target="_blank" rel="noopener noreferrer">
+          <a href="https://youtube.com/@ajith_sankar?si=JRVjyzQDTY7PiXGX" target="_blank" rel="noopener noreferrer">
             <FaYoutube size={30} className="text-white hover:text-red-500 transition" />
           </a>
           <a href="https://www.linkedin.com/in/ajith-s-357385325" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={30} className="text-white hover:text-blue-600 transition" />
-          </a>
-          <a href="https://www.facebook.com/share/19RGgwNtLu/?mibextid=LQQJ4d" target="_blank" rel="noopener noreferrer">
-            <FaFacebook size={30} className="text-white hover:text-blue-500 transition" />
-          </a>
-          <a href="https://x.com/galaxia_fx?s=21" target="_blank" rel="noopener noreferrer">
-            <FaSquareXTwitter  size={30} className="text-white hover:text-gray-400 transition" />
           </a>
         </div>
       </motion.div>

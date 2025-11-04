@@ -66,7 +66,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Film & Animation",
+    title: "Animation",
     icon: animation,
   },
   {
